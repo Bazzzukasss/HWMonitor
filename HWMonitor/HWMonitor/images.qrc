@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/button_add.png</file>
+        <file>images/button_add_.png</file>
+        <file>images/button_connect.png</file>
+        <file>images/button_connect_.png</file>
+        <file>images/button_del.png</file>
+        <file>images/button_del_.png</file>
+        <file>images/button_green.png</file>
+        <file>images/button_grey.png</file>
+        <file>images/button_red.png</file>
+        <file>images/button_yellow.png</file>
+        <file>images/ico.png</file>
+        <file>images/led2_green.png</file>
+        <file>images/led2_grey.png</file>
+        <file>images/led2_lime.png</file>
+        <file>images/led2_red.png</file>
+        <file>images/left_panel.png</file>
+        <file>images/right_panel.png</file>
+        <file>images/switch_off.png</file>
+        <file>images/switch_on.png</file>
+        <file>images/switch_on_.png</file>
+    </qresource>
+</RCC>
